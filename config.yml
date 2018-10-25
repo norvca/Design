@@ -1,0 +1,30 @@
+# site title
+title: Design
+
+# user name or organization name
+user: norvca
+
+# issue repository
+repository: Design
+
+# multi-author
+authors: norvca
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: a#3c959b89a2f7acc8256be289fd546dda1d4e184
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
