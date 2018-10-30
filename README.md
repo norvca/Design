@@ -6,3 +6,4 @@
 ### [3. 扣景别 【RGB通道】](https://norvca.github.io/Design/#/posts/3)
 ### [4. 扣景深【景深区域】](https://norvca.github.io/Design/#/posts/4)
 ### [5. 除边角污渍 【涂抹工具】](https://norvca.github.io/Design/#/posts/5)
+### [6. 批量加水印 【批处理】](https://norvca.github.io/Design/#/posts/6)
