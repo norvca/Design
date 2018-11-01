@@ -8,3 +8,4 @@
 ### [5. 除边角污渍 【涂抹工具】](https://norvca.github.io/Design/#/posts/5)
 ### [6. 批量加水印 【批处理】](https://norvca.github.io/Design/#/posts/6)
 ### [6. 色彩平衡调整 / 白平衡 【色阶工具】](https://norvca.github.io/Design/#/posts/7)
+### [6. 色彩平衡调整 / 白平衡 【曲线工具】](https://norvca.github.io/Design/#/posts/8)
